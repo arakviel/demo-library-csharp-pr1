@@ -12,3 +12,4 @@
 /Users/arakviel/RiderProjects/DemoLibrary/DemoLibrary/obj/Debug/net7.0/DemoLibrary.pdb
 /Users/arakviel/RiderProjects/DemoLibrary/DemoLibrary/obj/Debug/net7.0/DemoLibrary.genruntimeconfig.cache
 /Users/arakviel/RiderProjects/DemoLibrary/DemoLibrary/obj/Debug/net7.0/ref/DemoLibrary.dll
+/Users/arakviel/RiderProjects/DemoLibrary/DemoLibrary/obj/Debug/net7.0/DemoLibrary.sourcelink.json
