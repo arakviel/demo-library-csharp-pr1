@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "BDottThLg2k=",
+  "success": true,
+  "projectFilePath": "/Users/arakviel/RiderProjects/DemoLibrary/DemoLibrary/DemoLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/arakviel/.nuget/packages/stylecop.analyzers/1.2.0-beta.556/stylecop.analyzers.1.2.0-beta.556.nupkg.sha512",
+    "/Users/arakviel/.nuget/packages/stylecop.analyzers.unstable/1.2.0.556/stylecop.analyzers.unstable.1.2.0.556.nupkg.sha512",
+    "/Users/arakviel/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/arakviel/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/arakviel/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.20/microsoft.netcore.app.host.osx-arm64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

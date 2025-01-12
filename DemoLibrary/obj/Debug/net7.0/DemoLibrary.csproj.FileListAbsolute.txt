@@ -1,0 +1,14 @@
+/Users/arakviel/RiderProjects/DemoLibrary/DemoLibrary/bin/Debug/net7.0/DemoLibrary
+/Users/arakviel/RiderProjects/DemoLibrary/DemoLibrary/bin/Debug/net7.0/DemoLibrary.deps.json
+/Users/arakviel/RiderProjects/DemoLibrary/DemoLibrary/bin/Debug/net7.0/DemoLibrary.runtimeconfig.json
+/Users/arakviel/RiderProjects/DemoLibrary/DemoLibrary/bin/Debug/net7.0/DemoLibrary.dll
+/Users/arakviel/RiderProjects/DemoLibrary/DemoLibrary/bin/Debug/net7.0/DemoLibrary.pdb
+/Users/arakviel/RiderProjects/DemoLibrary/DemoLibrary/obj/Debug/net7.0/DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arakviel/RiderProjects/DemoLibrary/DemoLibrary/obj/Debug/net7.0/DemoLibrary.AssemblyInfoInputs.cache
+/Users/arakviel/RiderProjects/DemoLibrary/DemoLibrary/obj/Debug/net7.0/DemoLibrary.AssemblyInfo.cs
+/Users/arakviel/RiderProjects/DemoLibrary/DemoLibrary/obj/Debug/net7.0/DemoLibrary.csproj.CoreCompileInputs.cache
+/Users/arakviel/RiderProjects/DemoLibrary/DemoLibrary/obj/Debug/net7.0/DemoLibrary.dll
+/Users/arakviel/RiderProjects/DemoLibrary/DemoLibrary/obj/Debug/net7.0/refint/DemoLibrary.dll
+/Users/arakviel/RiderProjects/DemoLibrary/DemoLibrary/obj/Debug/net7.0/DemoLibrary.pdb
+/Users/arakviel/RiderProjects/DemoLibrary/DemoLibrary/obj/Debug/net7.0/DemoLibrary.genruntimeconfig.cache
+/Users/arakviel/RiderProjects/DemoLibrary/DemoLibrary/obj/Debug/net7.0/ref/DemoLibrary.dll
