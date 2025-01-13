@@ -189,8 +189,6 @@ public struct Author
     /// </summary>
     private void Add()
     {
-        List<Author> authors = GetAll();
-
         // Перевірка на наявність заголовків у файлі
         string directoryPath = Path.GetDirectoryName(FilePath);
         if (!Directory.Exists(directoryPath))
@@ -259,6 +257,38 @@ public struct Author
         }
 
         throw new KeyNotFoundException("Author with the specified name not found.");
+    }
+
+    public static List<Author> GetByBirthdateFromTo(DateTime start, DateTime end)
+    {
+        List<Author> authors = GetAll();
+        List<Author> result = new();
+
+        foreach (Author author in authors)
+        {
+            if (author.BirthDate.HasValue && author.BirthDate.Value >= start && author.BirthDate.Value <= end)
+            {
+                result.Add(author);
+            }
+        }
+
+        return result;
+    }
+
+    public static List<Author> GetByDeathdateFromTo(DateTime start, DateTime end)
+    {
+        List<Author> authors = GetAll();
+        List<Author> result = new();
+
+        foreach (Author author in authors)
+        {
+            if (author.DeathDate.HasValue && author.DeathDate.Value >= start && author.DeathDate.Value <= end)
+            {
+                result.Add(author);
+            }
+        }
+
+        return result;
     }
 
     /// <summary>

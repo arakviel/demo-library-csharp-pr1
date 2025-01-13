@@ -7,6 +7,21 @@ internal class Program
 {
     private static void Main()
     {
+        // Отримання конкретного автора
+        try
+        {
+            List<Author> authors = Author.GetByBirthdateFromTo(new DateTime(1880, 1, 1), DateTime.Now);
+
+            foreach (Author author in authors)
+            {
+                Console.WriteLine($"Found author: {author.Name}, Biography: {author.Biography}");
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error: {ex.Message}");
+        }
+
         //TestAuthors();
         //TestClients();
         //TestEmployees();

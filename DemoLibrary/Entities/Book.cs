@@ -203,8 +203,6 @@ public struct Book
     /// </summary>
     private void Add()
     {
-        List<Book> books = GetAll();
-
         // Перевірка на наявність заголовків у файлі
         string directoryPath = Path.GetDirectoryName(FilePath);
         if (!Directory.Exists(directoryPath))
